@@ -1,22 +1,19 @@
-## Hi there 👋
+<h2>Hey, I'm Myson <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fe/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fe/512.gif" alt="👋" width="32" height="32">
+</picture></h2>
 
-:gear: Research Scientist **|** Data Scientist **|** Applied Scientist **|** Mentor **|** Tech Enthusiast **|** Gamer
-
-🔭 I’m currently working on Multi-modal Architectures **|** Quantum 4 Bio Projects **|** AI For Science
-
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mysonburch/)
-
-<!--
-**mchburch/mchburch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/ghazi-khan/)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1fac6/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fac6/512.gif" alt="🫆" width="18" height="18">
+</picture> Research Scientist + IBM Alum + Purdue Boilermaker + Deploying advanced analytics to accelerate the biotech discovery cycle
+<br></br>
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="18" height="18">
+</picture> I’m currently working on Multi-modal Architectures + Quantum 4 Bio Projects + AI For Science
+<br></br>
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="🤖" width="18" height="18">
+</picture> How to reach me: [LinkedIn](https://www.linkedin.com/in/mysonburch/)
