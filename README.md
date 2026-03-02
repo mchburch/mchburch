@@ -11,10 +11,10 @@
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="18" height="18">
-</picture> I’m currently working on Multi-modal Architectures + Quantum 4 Bio Projects + AI For Science
+</picture> I’m currently working on &raquo; Multi-modal Architectures + Quantum 4 Bio Projects + AI For Science
 <br></br>
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="🤖" width="18" height="18">
 </picture> 
-How to reach me: <a href="https://www.linkedin.com/in/mysonburch/">LinkedIn</a>
+How to reach me &raquo; <a href="https://www.linkedin.com/in/mysonburch/">LinkedIn</a>
