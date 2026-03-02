@@ -6,7 +6,7 @@
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1fac6/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fac6/512.gif" alt="🫆" width="18" height="18" style="vertical-align: middle; margin-right: 5px;">
-</picture> Research Scientist + IBM Alum + Purdue Boilermaker + Deploying advanced analytics to accelerate the biotech discovery cycle
+</picture> Purdue Boilermaker &raquo; Research Scientist &raquo; IBM Alum — Deploying advanced analytics to accelerate the biotech discovery cycle
 <br></br>
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp">
